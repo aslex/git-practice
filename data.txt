@@ -1,1 +1,3 @@
-hi
+Name: Alex
+Age: 25
+favorite color: aubergine
